@@ -1,0 +1,8 @@
+.reveal section img {
+   border: 0px;
+   background: transparent;
+   box-shadow: none;
+}
+.reveal section p {
+   text-align:justify;
+}
